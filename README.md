@@ -9,9 +9,6 @@ Curso [Statation Rocketseat](station.rocketseat.com.br)
     - Generate final build and Go Live Server
 
 ## Recursos
-### Styles
-- [SASS](https://sass-lang.com/)
-
 ### Scripts
 - [ESLint](https://eslint.org/)
 - [Babel](https://babeljs.io/)
