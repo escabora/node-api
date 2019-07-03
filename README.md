@@ -1,7 +1,7 @@
 
 # Projeto Criação API Feed de Produtos com Node Js
 
-Curso [Statation Rocketseat](station.rocketseat.com.br)
+Curso [Statation Rocketseat](https://station.rocketseat.com.br/)
 
 ## Run project
 - `$ npm install`
