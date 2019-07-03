@@ -24,8 +24,8 @@ Using docker for MongoDB database
 - [Docker Container Platform](https://www.docker.com/)
 
 ## Resquests
-PUT - http://localhost:3001/api/products/{id}
-GET Index - http://localhost:3001/api/products
-GET Show - http://localhost:3001/api/products/{id}
-DEL - http://localhost:3001/api/products/{id}
-POST - http://localhost:3001/api/products
+- PUT - http://localhost:3001/api/products/{id}
+- GET Index - http://localhost:3001/api/products
+- GET Show - http://localhost:3001/api/products/{id}
+- DEL - http://localhost:3001/api/products/{id}
+- POST - http://localhost:3001/api/products
